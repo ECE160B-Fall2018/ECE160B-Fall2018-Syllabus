@@ -1,12 +1,12 @@
-# Spring 2018 - ECE160 - Syllabus
+# ECE160 - Fall 2018 - Syllabus
 Programming for Electrical Engineers  
-Course Hours: Thursdays, 6PM-9PM  
-Room: 104
+Course Hours: Wednesdays, 6PM-9PM  
+Room: 106
 
 ## Instructor Info
 Instructor: Christopher Hong  
 e-mail: hong3@cooper.edu  
-Office Hours: after class Thursday (9PM-10PM) and by appointment
+Office Hours: after class (Tuesdays 8PM-9PM, Wednesdays 9PM-10PM) and by appointment
 
 ## Textbooks
 Textbooks are not required for the course, but they may be useful to have. These two are the two I recommend.
