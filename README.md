@@ -10,15 +10,16 @@ Office Hours: after class (Tuesdays 8PM-9PM, Wednesdays 9PM-10PM) and by appoint
 
 ## Textbooks
 Textbooks are not required for the course, but they may be useful to have. These two are the two I recommend.
-- The C Programming Language, 2nd Edition - Brian W. Kernighan & Dennis M. Ritchie
-- Thinking in C++: Introduction to Standard C++, Volume One, 2nd Edition - Bruce Eckel  
+- [The C Programming Language, 2nd Edition - Brian W. Kernighan & Dennis M. Ritchie](https://amzn.to/2NExNfM)
+- [Thinking in C++: Introduction to Standard C++, Volume One, 2nd Edition - Bruce Eckel](https://amzn.to/2CmyiKu)  
 
 Other books that you may find useful are:
-- Computer Science: A Structured Programming Approach Using C, 3rd Edition - Behrouz A. Forouzan and Richard F. Gilberg
-- Practical C Programming, 3rd Edition - Steve Oualline
-- C Programming: A Modern Approach, 2nd Edition - K. N. King
-- The C++ Programming Language, 4th Edition - Bjarne Stroustrup
-- Programming: Principles and Practice Using C++, 2nd Edition - Bjarne Stroustrup
+- [Engineering Problem Solving with C, 4th Edition - Delores M. Etter](https://amzn.to/2Q2Lbft)
+- [Computer Science: A Structured Programming Approach Using C, 3rd Edition - Behrouz A. Forouzan and Richard F. Gilberg](https://amzn.to/2CbVOty)
+- [Practical C Programming, 3rd Edition - Steve Oualline](https://amzn.to/2NJGgya)
+- [C Programming: A Modern Approach, 2nd Edition - K. N. King](https://amzn.to/2NIz59E)
+- [The C++ Programming Language, 4th Edition - Bjarne Stroustrup](https://amzn.to/2Q0hpYH)
+- [Programming: Principles and Practice Using C++, 2nd Edition - Bjarne Stroustrup](https://amzn.to/2LU2onL)
 
 ## Grading
 - Programming Homework: 25%
