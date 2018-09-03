@@ -82,9 +82,9 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - C++ - Intro to Data Structures & Algorithms
 
 ### 12/12/18  
-**Final Project Presentations**
+**Final Project Presentations**  
 - C++ - Intro to Algorithms
 
 ### 12/19/18  
-**Final Exam**
+**Final Exam**  
 **All Late Homework Due**
