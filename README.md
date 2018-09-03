@@ -38,7 +38,7 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 
 ## Schedule
 
-For the latest up to date schedule, see: https://hong3cooper.github.io/cs102a_fall2018
+For the latest up to date schedule, see: https://hong3cooper.github.io/ece160b_fall2018
 
 ### 09/05/18  
 - Course Overview, Intro to Unix, Github, Hello World, Variables, Types, Operations
