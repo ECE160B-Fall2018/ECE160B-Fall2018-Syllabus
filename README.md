@@ -37,6 +37,9 @@ Assignments will be graded with the following criteria:
 Note: Late submissions will receive a 10% deduction to the final grade for the assignment. 
 
 ## Schedule
+
+For the latest up to date schedule, see: https://hong3cooper.github.io/cs102a_fall2018
+
 ### 09/05/18  
 - Course Overview, Intro to Unix, Github, Hello World, Variables, Types, Operations
  
